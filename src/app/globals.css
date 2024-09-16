@@ -105,3 +105,11 @@ a {
     color-scheme: dark;
   }
 }
+/* global.css or in your main stylesheet */
+/* styles/globals.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
